@@ -117,6 +117,12 @@ class Game extends React.Component {
           <div>{status}</div>
           <ol>{moves}</ol>
         </div>
+
+        <div>
+          <button onClick={() => window.location.reload()}>
+            {"restart game"}
+          </button>
+        </div>
       </div>
     );
   }
@@ -145,4 +151,8 @@ function calculateWinner(squares) {
     }
   }
   return null;
+}
+
+function refreshPage() {
+  window.location.reload(false);
 }
