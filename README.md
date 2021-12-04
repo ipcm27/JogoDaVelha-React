@@ -14,7 +14,7 @@ Através desse exercício pude aprimorar alguns conceitos como:
 <li>Components</li>
 <li>states</li>
 <li>keys</li>
-<ul>  
+</ul>  
 
 # 🐸 The author
 Sou um desenvolvedor web de 25 anos, brasileiro, que gosta de ler sobre psicologia, autores russos e jogar League of Legends nas horas vagas.  
