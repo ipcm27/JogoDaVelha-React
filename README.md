@@ -5,6 +5,16 @@
 Este jogo foi criado utilizando react e tem como propósito introduzir esta ferramenta em meu portofolio.
 Este desafio faz parte da introdução react disponível na documentação oficial do site. 
 https://pt-br.reactjs.org/tutorial/tutorial.html#what-is-react
+<br>
+
+Através desse exercício pude aprimorar alguns conceitos como: 
+<ul>
+<li>RXJS</li>
+<li>props</li>
+<li>Components</li>
+<li>states</li>
+<li>keys</li>
+<ul>  
 
 # 🐸 The author
 Sou um desenvolvedor web de 25 anos, brasileiro, que gosta de ler sobre psicologia, autores russos e jogar League of Legends nas horas vagas.  
